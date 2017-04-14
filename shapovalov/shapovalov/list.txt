@@ -1,0 +1,50 @@
+001
+Grigor'ev A.P.
+2506506
+12.05.2009
+Oplachen
+002
+Sytnik G.V.
+2516709
+15.03.2005
+Oplachen
+003
+Timkin A.R.
+2501256
+13.05.2005
+Net
+004
+Provozhaj E.G.
+2404041
+12.02.2001
+Net
+005
+Ljubanin A.A.
+2340612
+12.06.2000
+Oplachen
+006
+Bardin A.O.
+2340654
+17.01.2009
+Net
+007
+Mamaev I.G.
+2333120
+21.03.2013
+Oplachen
+008
+Privozin A.Je.
+2345001
+12.12.2012
+Net
+009
+Judin O.O.
+2555255
+09.09.2010
+Oplachen
+010
+Aprochkin E.A.
+2344091
+12.03.2010
+Oplachen

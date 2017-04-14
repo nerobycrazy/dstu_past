@@ -1,0 +1,45 @@
+﻿Сборка начата 21.12.2016 19:29:11.
+     1>Проект "c:\Users\андрей олегович\documents\visual studio 2013\Projects\3kurs\var6\var6\var6.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\var6.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\var6.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt var6.cpp
+         var6.cpp
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\var6\var6\var6.cpp(324): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\var6\var6\var6.cpp(342): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\var6\var6\var6.cpp(429): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\var6\var6\var6.cpp(379): warning C4018: <: несоответствие типов со знаком и без знака
+                 c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\var6\var6\var6.cpp(471): см. ссылку на создание экземпляров функции шаблон при компиляции "double Itog_AVG<20>(std::list<Zakaz,std::allocator<_Ty>> &)"
+                 with
+                 [
+                     _Ty=Zakaz
+                 ]
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\var6\var6\var6.cpp(397): warning C4018: <: несоответствие типов со знаком и без знака
+                 c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\var6\var6\var6.cpp(474): см. ссылку на создание экземпляров функции шаблон при компиляции "void Count_Foood<20>(std::list<Zakaz,std::allocator<_Ty>> &)"
+                 with
+                 [
+                     _Ty=Zakaz
+                 ]
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\var6\var6\var6.cpp(405): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\var6\var6\var6.cpp(406): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\var6\var6\var6.cpp(413): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\var6\var6\var6.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+                 c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\var6\var6\var6.cpp(418): см. ссылку на создание экземпляров функции шаблон при компиляции "int l_max<int>(std::list<int,std::allocator<_Ty>>)"
+                 with
+                 [
+                     _Ty=int
+                 ]
+                 c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\var6\var6\var6.cpp(474): см. ссылку на создание экземпляров функции шаблон при компиляции "void Count_Foood<20>(std::list<Zakaz,std::allocator<_Ty>> &)"
+                 with
+                 [
+                     _Ty=Zakaz
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\андрей олегович\documents\visual studio 2013\Projects\3kurs\var6\Debug\var6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\андрей олегович\documents\visual studio 2013\Projects\3kurs\var6\Debug\var6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\андрей олегович\documents\visual studio 2013\Projects\3kurs\var6\Debug\var6.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\var6.obj
+         var6.vcxproj -> c:\users\андрей олегович\documents\visual studio 2013\Projects\3kurs\var6\Debug\var6.exe
+     1>Сборка проекта "c:\Users\андрей олегович\documents\visual studio 2013\Projects\3kurs\var6\var6\var6.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.66

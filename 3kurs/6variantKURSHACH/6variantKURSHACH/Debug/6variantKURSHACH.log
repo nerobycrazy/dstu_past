@@ -1,0 +1,43 @@
+﻿Сборка начата 22.12.2016 12:19:22.
+     1>Проект "C:\Users\Андрей Олегович\documents\visual studio 2013\Projects\3kurs\6variantKURSHACH\6variantKURSHACH\6variantKURSHACH.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\6variantKURSHACH.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 6variantKURSHACH.cpp
+         6variantKURSHACH.cpp
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\6variantkurshach\6variantkurshach\6variantkurshach.cpp(333): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\6variantkurshach\6variantkurshach\6variantkurshach.cpp(354): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\6variantkurshach\6variantkurshach\6variantkurshach.cpp(441): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\6variantkurshach\6variantkurshach\6variantkurshach.cpp(391): warning C4018: <: несоответствие типов со знаком и без знака
+                 c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\6variantkurshach\6variantkurshach\6variantkurshach.cpp(485): см. ссылку на создание экземпляров функции шаблон при компиляции "double Itog_AVG<20>(std::list<Zakaz,std::allocator<_Ty>> &)"
+                 with
+                 [
+                     _Ty=Zakaz
+                 ]
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\6variantkurshach\6variantkurshach\6variantkurshach.cpp(409): warning C4018: <: несоответствие типов со знаком и без знака
+                 c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\6variantkurshach\6variantkurshach\6variantkurshach.cpp(488): см. ссылку на создание экземпляров функции шаблон при компиляции "void Count_Foood<20>(std::list<Zakaz,std::allocator<_Ty>> &)"
+                 with
+                 [
+                     _Ty=Zakaz
+                 ]
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\6variantkurshach\6variantkurshach\6variantkurshach.cpp(417): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\6variantkurshach\6variantkurshach\6variantkurshach.cpp(418): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\6variantkurshach\6variantkurshach\6variantkurshach.cpp(425): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\6variantkurshach\6variantkurshach\6variantkurshach.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+                 c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\6variantkurshach\6variantkurshach\6variantkurshach.cpp(430): см. ссылку на создание экземпляров функции шаблон при компиляции "int l_max<int>(std::list<int,std::allocator<_Ty>>)"
+                 with
+                 [
+                     _Ty=int
+                 ]
+                 c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\6variantkurshach\6variantkurshach\6variantkurshach.cpp(488): см. ссылку на создание экземпляров функции шаблон при компиляции "void Count_Foood<20>(std::list<Zakaz,std::allocator<_Ty>> &)"
+                 with
+                 [
+                     _Ty=Zakaz
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Андрей Олегович\documents\visual studio 2013\Projects\3kurs\6variantKURSHACH\Debug\6variantKURSHACH.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Андрей Олегович\documents\visual studio 2013\Projects\3kurs\6variantKURSHACH\Debug\6variantKURSHACH.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Андрей Олегович\documents\visual studio 2013\Projects\3kurs\6variantKURSHACH\Debug\6variantKURSHACH.lib" /MACHINE:X86 Debug\6variantKURSHACH.obj
+         Debug\stdafx.obj
+         6variantKURSHACH.vcxproj -> C:\Users\Андрей Олегович\documents\visual studio 2013\Projects\3kurs\6variantKURSHACH\Debug\6variantKURSHACH.exe
+     1>Сборка проекта "C:\Users\Андрей Олегович\documents\visual studio 2013\Projects\3kurs\6variantKURSHACH\6variantKURSHACH\6variantKURSHACH.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.27

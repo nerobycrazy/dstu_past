@@ -1,0 +1,46 @@
+﻿Сборка начата 17.01.2017 15:52:03.
+     1>Проект "C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\3kurs\date_test\date_test\date_test.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\date_test.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt date_test.cpp
+         date_test.cpp
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(244): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(331): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(351): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(452): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(561): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(572): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(593): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(602): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(606): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(614): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(634): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(646): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(675): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(694): warning C4621: не найдена постфиксная форма "operator --" для типа "Date"; используется префиксная форма
+                 c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(469): см. объявление "Date"
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(697): warning C4621: не найдена постфиксная форма "operator --" для типа "Date"; используется префиксная форма
+                 c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(469): см. объявление "Date"
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(734): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(745): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+                 c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(589): см. ссылку на создание экземпляров функции шаблон при компиляции "int find<std::string>(std::vector<std::string,std::allocator<_Ty>>,T)"
+                 with
+                 [
+                     _Ty=std::string
+         ,            T=std::string
+                 ]
+     1>c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+                 c:\users\андрей олегович\documents\visual studio 2013\projects\3kurs\date_test\date_test\date_test.cpp(601): см. ссылку на создание экземпляров функции шаблон при компиляции "int index_maxx<int>(std::vector<int,std::allocator<_Ty>>)"
+                 with
+                 [
+                     _Ty=int
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\3kurs\date_test\Debug\date_test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\3kurs\date_test\Debug\date_test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\3kurs\date_test\Debug\date_test.lib" /MACHINE:X86 Debug\date_test.obj
+         Debug\stdafx.obj
+         date_test.vcxproj -> C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\3kurs\date_test\Debug\date_test.exe
+     1>Сборка проекта "C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\3kurs\date_test\date_test\date_test.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.50

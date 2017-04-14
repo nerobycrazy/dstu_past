@@ -1,0 +1,6 @@
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\First lesson\bin\Debug\First lesson.exe.config
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\First lesson\bin\Debug\First lesson.exe
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\First lesson\bin\Debug\First lesson.pdb
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\First lesson\obj\Debug\First lesson.csprojResolveAssemblyReference.cache
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\First lesson\obj\Debug\First lesson.exe
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\First lesson\obj\Debug\First lesson.pdb

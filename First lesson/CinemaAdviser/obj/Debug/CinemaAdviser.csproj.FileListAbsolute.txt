@@ -1,0 +1,6 @@
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\CinemaAdviser\bin\Debug\CinemaAdviser.exe.config
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\CinemaAdviser\bin\Debug\CinemaAdviser.exe
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\CinemaAdviser\bin\Debug\CinemaAdviser.pdb
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\CinemaAdviser\obj\Debug\CinemaAdviser.csprojResolveAssemblyReference.cache
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\CinemaAdviser\obj\Debug\CinemaAdviser.exe
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\CinemaAdviser\obj\Debug\CinemaAdviser.pdb

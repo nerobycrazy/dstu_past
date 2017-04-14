@@ -1,0 +1,2 @@
+C++          Python       C#           Pascal       C            Java Script  HTML5        
+3            2            2            1            1            1            1            

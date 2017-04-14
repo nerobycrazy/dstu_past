@@ -1,0 +1,8 @@
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\TurtleTraning\bin\Debug\TurtleTraning.exe.config
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\TurtleTraning\bin\Debug\TurtleTraning.exe
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\TurtleTraning\bin\Debug\TurtleTraning.pdb
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\TurtleTraning\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\TurtleTraning\bin\Debug\SmallBasicLibrary.xml
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\TurtleTraning\obj\Debug\TurtleTraning.csprojResolveAssemblyReference.cache
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\TurtleTraning\obj\Debug\TurtleTraning.exe
+C:\Users\Андрей Олегович\Documents\Visual Studio 2013\Projects\First lesson\TurtleTraning\obj\Debug\TurtleTraning.pdb
